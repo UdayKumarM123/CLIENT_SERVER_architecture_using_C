@@ -1,0 +1,90 @@
+[2025-10-25 19:46:57] Server started.
+[2025-10-25 19:57:31] Server started.
+Client: hello
+
+Client: hello
+
+Server: okay
+Client: hello
+
+Server: okay
+[2025-10-25 21:41:33] From ('127.0.0.1', 61678) (decrypted): hello
+
+[2025-10-25 21:41:33] From ('127.0.0.1', 61678) (encrypted): lipps
+
+[2025-10-25 21:41:43] Sent to ('127.0.0.1', 61678) (decrypted): okay
+[2025-10-25 21:41:43] Sent to ('127.0.0.1', 61678) (encrypted): soec
+
+[2025-10-25 21:45:20] From ('127.0.0.1', 54989) (decrypted): hello
+
+[2025-10-25 21:45:20] From ('127.0.0.1', 54989) (encrypted): lipps
+
+[2025-10-25 21:45:51] Sent to ('127.0.0.1', 54989) (decrypted): okay
+[2025-10-25 21:45:51] Sent to ('127.0.0.1', 54989) (encrypted): soec
+
+[2025-10-25 21:50:13] From ('127.0.0.1', 51504) (decrypted): hello
+
+[2025-10-25 21:50:13] From ('127.0.0.1', 51504) (encrypted): khoor
+
+[2025-10-25 21:50:27] Sent to ('127.0.0.1', 51504) (decrypted): okay
+[2025-10-25 21:50:27] Sent to ('127.0.0.1', 51504) (encrypted): rndb
+
+[2025-10-25 21:50:38] From ('127.0.0.1', 51504) (decrypted): hey
+
+[2025-10-25 21:50:38] From ('127.0.0.1', 51504) (encrypted): khb
+
+[2025-10-25 21:50:44] Sent to ('127.0.0.1', 51504) (decrypted): quit
+[2025-10-25 21:50:44] Sent to ('127.0.0.1', 51504) (encrypted): txlw
+
+[2025-10-25 21:53:46] From ('127.0.0.1', 64456) (decrypted): hello
+
+[2025-10-25 21:53:46] From ('127.0.0.1', 64456) (encrypted): khoor
+
+[2025-10-25 21:53:59] Sent to ('127.0.0.1', 64456) (decrypted): hey
+[2025-10-25 21:53:59] Sent to ('127.0.0.1', 64456) (encrypted): khb
+
+[2025-10-25 21:54:07] From ('127.0.0.1', 64456) (decrypted): file
+
+[2025-10-25 21:54:07] From ('127.0.0.1', 64456) (encrypted): iloh
+
+[2025-10-25 21:54:17] Sent to ('127.0.0.1', 64456) (decrypted): Server is shutting down.[2025-10-25 21:54:17] Sent to ('127.0.0.1', 64456) (encrypted): Vhuyhu lv vkxwwlqj grzq.
+[2025-10-25 22:04:03] From ('127.0.0.1', 57151) (decrypted): hello
+
+[2025-10-25 22:04:03] From ('127.0.0.1', 57151) (encrypted): khoor
+
+[2025-10-25 22:04:22] Sent to ('127.0.0.1', 57151) (decrypted): good
+[2025-10-25 22:04:22] Sent to ('127.0.0.1', 57151) (encrypted): jrrg
+
+[2025-10-25 22:04:52] From ('127.0.0.1', 57151) (decrypted): welcome
+
+[2025-10-25 22:04:52] From ('127.0.0.1', 57151) (encrypted): zhofrph
+
+[2025-10-25 22:21:03] From ('127.0.0.1', 63005) (decrypted): hello
+
+[2025-10-25 22:21:03] From ('127.0.0.1', 63005) (encrypted): khoor
+
+[2025-10-25 22:21:12] Sent to ('127.0.0.1', 63005) (decrypted): okay
+[2025-10-25 22:21:12] Sent to ('127.0.0.1', 63005) (encrypted): rndb
+
+[2025-10-25 22:21:20] From ('127.0.0.1', 63005) (decrypted): bye
+
+[2025-10-25 22:21:20] From ('127.0.0.1', 63005) (encrypted): ebh
+
+[2025-10-25 22:33:55] Sent to ('127.0.0.1', 62068) (decrypted): Welcome to the secure server![2025-10-25 22:33:55] Sent to ('127.0.0.1', 62068) (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 22:34:55] From ('127.0.0.1', 62068) (decrypted): eres
+
+[2025-10-25 22:34:55] From ('127.0.0.1', 62068) (encrypted): huhv
+
+[2025-10-25 22:42:14] Sent to ('127.0.0.1', 49855) (decrypted): Welcome to the secure server![2025-10-25 22:42:14] Sent to ('127.0.0.1', 49855) (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 22:42:19] From ('127.0.0.1', 49855) (decrypted): hhi
+
+[2025-10-25 22:42:19] From ('127.0.0.1', 49855) (encrypted): kkl
+
+[2025-10-27 13:02:01] Sent to ('127.0.0.1', 56033) (decrypted): Welcome to the secure server![2025-10-27 13:02:01] Sent to ('127.0.0.1', 56033) (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-27 13:02:13] From ('127.0.0.1', 56033) (decrypted): uday
+
+[2025-10-27 13:02:13] From ('127.0.0.1', 56033) (encrypted): xgdb
+
+[2025-10-27 13:02:27] Sent to ('127.0.0.1', 56033) (decrypted): hbxksjsb
+[2025-10-27 13:02:27] Sent to ('127.0.0.1', 56033) (encrypted): keanvmve
+

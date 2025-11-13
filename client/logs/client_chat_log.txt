@@ -1,0 +1,89 @@
+You: hello
+Server: okay
+
+You: hello
+Server: okay
+
+[2025-10-25 21:41:33] Sent (decrypted): hello
+[2025-10-25 21:41:33] Sent (encrypted): lipps
+
+[2025-10-25 21:41:43] Received (plain): okay
+
+[2025-10-25 21:41:43] Received (encrypted): soec
+
+[2025-10-25 21:45:20] Sent (decrypted): hello
+[2025-10-25 21:45:20] Sent (encrypted): lipps
+
+[2025-10-25 21:45:51] Received (plain): okay
+
+[2025-10-25 21:45:51] Received (encrypted): soec
+
+[2025-10-25 21:50:13] Sent (decrypted): hello
+[2025-10-25 21:50:13] Sent (encrypted): khoor
+
+[2025-10-25 21:50:27] Received (plain): okay
+
+[2025-10-25 21:50:27] Received (encrypted): rndb
+
+[2025-10-25 21:50:38] Sent (decrypted): hey
+[2025-10-25 21:50:38] Sent (encrypted): khb
+
+[2025-10-25 21:50:44] Received (plain): quit
+
+[2025-10-25 21:50:44] Received (encrypted): txlw
+
+[2025-10-25 21:53:46] Sent (decrypted): hello
+[2025-10-25 21:53:46] Sent (encrypted): khoor
+
+[2025-10-25 21:53:59] Received (plain): hey
+
+[2025-10-25 21:53:59] Received (encrypted): khb
+
+[2025-10-25 21:54:07] Sent (decrypted): file
+[2025-10-25 21:54:07] Sent (encrypted): iloh
+
+[2025-10-25 21:54:17] Received (plain): Server is shutting down.
+[2025-10-25 21:54:17] Received (encrypted): Vhuyhu lv vkxwwlqj grzq.
+[2025-10-25 22:04:03] Sent (decrypted): hello
+[2025-10-25 22:04:03] Sent (encrypted): khoor
+
+[2025-10-25 22:04:22] Received (plain): good
+
+[2025-10-25 22:04:22] Received (encrypted): jrrg
+
+[2025-10-25 22:04:52] Sent (decrypted): welcome
+[2025-10-25 22:04:52] Sent (encrypted): zhofrph
+
+[2025-10-25 22:05:01] Received (plain): Server is closed.
+[2025-10-25 22:21:03] Sent (decrypted): hello
+[2025-10-25 22:21:03] Sent (encrypted): khoor
+
+[2025-10-25 22:21:12] Received (plain): okay
+
+[2025-10-25 22:21:12] Received (encrypted): rndb
+
+[2025-10-25 22:21:20] Sent (decrypted): bye
+[2025-10-25 22:21:20] Sent (encrypted): ebh
+
+[2025-10-25 22:21:37] Received (plain): Server is closed.
+[2025-10-25 22:33:55] Received (plain): Welcome to the secure server!
+[2025-10-25 22:33:55] Received (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 22:34:55] Sent (decrypted): eres
+[2025-10-25 22:34:55] Sent (encrypted): huhv
+
+[Server closed]: Server is closed.
+[2025-10-25 22:42:14] Received (plain): Welcome to the secure server!
+[2025-10-25 22:42:14] Received (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 22:42:19] Sent (decrypted): hhi
+[2025-10-25 22:42:19] Sent (encrypted): kkl
+
+[Server closed]: Server is closed.
+[2025-10-27 13:02:01] Received (plain): Welcome to the secure server!
+[2025-10-27 13:02:01] Received (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-27 13:02:13] Sent (decrypted): uday
+[2025-10-27 13:02:13] Sent (encrypted): xgdb
+
+[2025-10-27 13:02:27] Received (plain): hbxksjsb
+
+[2025-10-27 13:02:27] Received (encrypted): keanvmve
+
